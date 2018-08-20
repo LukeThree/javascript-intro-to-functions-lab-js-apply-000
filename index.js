@@ -20,6 +20,6 @@ function sayHiToGrandma(string) {
   }
   
   else {
-    console.log()
+    console.log("YES INDEED!")
   }
 }
